@@ -4,7 +4,7 @@
 I'm a student of <strong>Computer Science (BSc)</strong> and <strong>Business Administration (BBA)</strong> at the University of Granada. I'm passionate about the IT industry and how technology drives business strategy and innovation.
 </p>
 
-<h2>🚀 What I'm Working On</h2>
+<h2 align="center">🚀 What I'm Working On</h2>
 
 <ul>
   <li>
@@ -22,7 +22,7 @@ I'm a student of <strong>Computer Science (BSc)</strong> and <strong>Business Ad
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,aws,azure,cpp,css,docker,github,html,java,js,linux,md,nginx,mongodb,mysql,nextjs,nodejs,py,vscode,kubernetes&perline=14" />
+    <img src="https://skillicons.dev/icons?i=git,aws,azure,cpp,css,docker,github,html,java,js,linux,nginx,mongodb,mysql,nextjs,nodejs,py,vscode,kubernetes&perline=14" />
   </a>
 </p>
 
