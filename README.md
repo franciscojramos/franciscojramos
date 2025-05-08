@@ -1,12 +1,10 @@
-<h2 align="center">👋 Hello! I'm Francisco Ramos</h2>
+<h2 align="center">👋 Hello! I'm Francisco José Ramos Moya</h2>
 
-<p align="center">
+<p>
 I'm a student of <strong>Computer Science (BSc)</strong> and <strong>Business Administration (BBA)</strong> at the University of Granada. I'm passionate about the IT industry and how technology drives business strategy and innovation.
 </p>
 
-<br/>
-
-<h2 align="center">🚀 What I'm Working On</h2>
+<h2>🚀 What I'm Working On</h2>
 
 <ul>
   <li>
@@ -20,13 +18,11 @@ I'm a student of <strong>Computer Science (BSc)</strong> and <strong>Business Ad
   </li>
 </ul>
 
-<br/>
-
 <h2 align="center">👨🏻‍💻 Technologies That I Know</h2>
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,aws,cpp,css,docker,github,html,java,js,linux,md,nginx,mongodb,mysql,nextjs,nodejs,postman,py,vscode,kubernetes&perline=14" />
+    <img src="https://skillicons.dev/icons?i=git,aws,azure,cpp,css,docker,github,html,java,js,linux,md,nginx,mongodb,mysql,nextjs,nodejs,py,vscode,kubernetes&perline=14" />
   </a>
 </p>
 
